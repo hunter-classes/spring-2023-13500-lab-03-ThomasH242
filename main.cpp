@@ -30,9 +30,9 @@ int main(){
   std::cout << "\nThe reverse order of 09/10/2018 to 10/04/2018 of their West Basin Elevation: " << "\n\n";
 
   reverse_order("09/10/2018","10/04/2018");
-  std::cout << "\nThe reverse order of 01/2/2018 to 02/15/2018 of their West Basin Elevation: " << "\n\n";
+  std::cout << "\nThe reverse order of 01/20/2018 to 02/15/2018 of their West Basin Elevation: " << "\n\n";
 
-  reverse_order("01/2/2018","02/15/2018");
+  reverse_order("01/20/2018","02/15/2018");
   std::cout << "\nThe reverse order of 10/23/2018 to 11/01/2018 of their West Basin Elevation: " << "\n\n";
 
   reverse_order("10/23/2018","11/01/2018");
